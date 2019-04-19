@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": 0,
+      "title": "My First Article",
+      "content": "Hello World",
+      "authors": "Orangefire"
+    },
+    {
+      "id": 1555684752775,
+      "title": "Fake Title",
+      "content": "Test Form",
+      "authors": "Dimitri"
+    }
+  ]
+}
